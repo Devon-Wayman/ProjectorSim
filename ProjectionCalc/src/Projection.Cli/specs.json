@@ -1,0 +1,18 @@
+{
+  "profiles": {
+    "epson": {
+      "projector": {
+        "manufacturer": "Epson",
+        "model": "EB-PU2213B",
+        "native_aspect_ratio": "16:10"
+      },
+      "lens": {
+        "manufacturer": "Epson",
+        "model": "ELPX02S",
+        "type": "UST",
+        "throw_ratio": 0.35
+      },
+      "notes": "Throw ratio is distance/width. UST lens has fixed TR=0.35:1."
+    }
+  }
+}
